@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindboxTestTask.Figures", "MindboxTestTask.Figures\MindboxTestTask.Figures.csproj", "{23289A18-A56B-4AFD-A603-CD436171DCFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindboxTestTask.Figures.Test", "MindboxTestTask.Figures.Test\MindboxTestTask.Figures.Test.csproj", "{08BC3650-854B-41B5-BC12-015C5A67A152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23289A18-A56B-4AFD-A603-CD436171DCFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23289A18-A56B-4AFD-A603-CD436171DCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23289A18-A56B-4AFD-A603-CD436171DCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23289A18-A56B-4AFD-A603-CD436171DCFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08BC3650-854B-41B5-BC12-015C5A67A152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BC3650-854B-41B5-BC12-015C5A67A152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BC3650-854B-41B5-BC12-015C5A67A152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BC3650-854B-41B5-BC12-015C5A67A152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

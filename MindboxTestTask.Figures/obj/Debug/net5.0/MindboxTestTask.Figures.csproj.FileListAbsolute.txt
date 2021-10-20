@@ -1,0 +1,16 @@
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\bin\Debug\net5.0\MindboxTestTask.Figures.exe
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\bin\Debug\net5.0\MindboxTestTask.Figures.deps.json
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\bin\Debug\net5.0\MindboxTestTask.Figures.runtimeconfig.json
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\bin\Debug\net5.0\MindboxTestTask.Figures.runtimeconfig.dev.json
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\bin\Debug\net5.0\MindboxTestTask.Figures.dll
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\bin\Debug\net5.0\ref\MindboxTestTask.Figures.dll
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\bin\Debug\net5.0\MindboxTestTask.Figures.pdb
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\obj\Debug\net5.0\MindboxTestTask.Figures.csproj.AssemblyReference.cache
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\obj\Debug\net5.0\MindboxTestTask.Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\obj\Debug\net5.0\MindboxTestTask.Figures.AssemblyInfoInputs.cache
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\obj\Debug\net5.0\MindboxTestTask.Figures.AssemblyInfo.cs
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\obj\Debug\net5.0\MindboxTestTask.Figures.csproj.CoreCompileInputs.cache
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\obj\Debug\net5.0\MindboxTestTask.Figures.dll
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\obj\Debug\net5.0\ref\MindboxTestTask.Figures.dll
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\obj\Debug\net5.0\MindboxTestTask.Figures.pdb
+C:\Users\rumat\RiderProjects\MindboxTestTask\MindboxTestTask.Figures\obj\Debug\net5.0\MindboxTestTask.Figures.genruntimeconfig.cache
